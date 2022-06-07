@@ -8,3 +8,6 @@ Statik tanımlı üyeler ile sürekli karşılaştırma yapılarak bunların dı
 ### Loglama
 
 Şüpheli kullanıcı ismi, tarih şeklinde logs.txt dosyasına yazılır
+
+
+![domain-admins](https://user-images.githubusercontent.com/25990177/172451654-0dc18b1d-5cad-4fe3-a20b-99ea974c07f4.png)
